@@ -1,4 +1,4 @@
-# ubuntu-locale-fix
+# Ubuntu-locale-fix
 
 Instructions to fix the locale settings in UBUNTU once for all,
 This script is written for LANGUAGE= English with UTF-8
